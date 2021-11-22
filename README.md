@@ -14,16 +14,16 @@ This project is for Colorado Board of Election to automate count and display vot
 ### summary 
 The analysis of elections shows that. 
 -	There were 3 candidates and there were 369,711 votes cast in the election. 
-  -	The candidates were 
-  -	Charles Casper Stockham
-  -	Diana DeGette
-  -	Raymon Anthony Doane
+    -	The candidates were 
+    -	Charles Casper Stockham
+    -	Diana DeGette
+    -	Raymon Anthony Doane
 -	The Candidate results were 
-  -	Charles Casper Stockham received 23.0% of the votes and 85,213 number of the votes.
-  -	Diana DeGette received 73.8% of votes and 272,892 number of the votes.
-  -	Raymon Anthony Doane received 3.1% of the votes and 11,606 number of the votes.
+    -	Charles Casper Stockham received 23.0% of the votes and 85,213 number of the votes.
+    -	Diana DeGette received 73.8% of votes and 272,892 number of the votes.
+    -	Raymon Anthony Doane received 3.1% of the votes and 11,606 number of the votes.
 -	The winner of the election was  
-  -	Diana DeGette, who received 73.8% of votes and 272,892 number of the votes.
+    -	Diana DeGette, who received 73.8% of votes and 272,892 number of the votes.
 
 ## Challenge 
 ### Challenge Overview
@@ -37,11 +37,11 @@ The challenge project is for Colorado Board of Election is to display and voting
 The county analysis shows that:
 -	There are three counties in Colorado with total of 369,711 voters.
 -	The counties are 
-  -	Jefferson 
-  -	Denver 
-  -	Arapahoe
+    -	Jefferson 
+    -	Denver 
+    -	Arapahoe
 -	Total number of vote cast per county were:
-  -	Jefferson: 38855
-  -	Denver: 306055
-  -	Arapahoe: 24801
+    -	Jefferson: 38855
+    -	Denver: 306055
+    -	Arapahoe: 24801
 -	The largest voters count county in Colorado is Denver County with 306055 vote cast.

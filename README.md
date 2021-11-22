@@ -31,7 +31,7 @@ The challange project is for Colorado Board of Election is to display and voting
 2. Software: Python 3.7.6, Spyder for Python 3.7
 3. PyPoll_Challenge_starter_code.py partially filled python code. 
 
-## Summary
+## Challange Summary
 The county analysisi shows that:
   - There are three counties in Colorado with total of 369,711 voters
   - The counties are 
